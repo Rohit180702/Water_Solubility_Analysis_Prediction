@@ -35,7 +35,7 @@ Several machine learning models were trained and evaluated:
 1. **Logistic Regression**
    - **Accuracy**: 79.12%
 2. **Decision Tree**
-   - **Accuracy**: [To be included]
+   - **Accuracy**: 83.15%
 3. **Random Forest**
    - **Accuracy**: 88.79%
 4. **XGBoost**
