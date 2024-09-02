@@ -66,5 +66,3 @@ Feel free to fork the repository, make modifications, and submit a pull request.
 This project is licensed under the MIT License.
 
 ---
-
-This README covers the major aspects of your project, including data analysis, modeling, and evaluation, while also making it easy for others to replicate or contribute to your work.
